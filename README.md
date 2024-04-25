@@ -16,6 +16,11 @@ App Link: https://agiletrack.guptahitesh.me/
 - [Contributing](#contributing)
 - [License](#backend-license)
 
+## Preview
+<div style="display:flex;flex-wrap:wrap;">
+    <img src="index.png" alt="Image 27">
+</div>
+
 ## Frontend
 
 ### Frontend Installation
