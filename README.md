@@ -22,7 +22,7 @@ App Link: https://agiletrack.guptahitesh.me/
 
 To install AgileTrack frontend, follow these steps:
 
-1. Clone the repository: `git clone <repository_link>`
+1. Clone the repository: `git clone https://github.com/hmgtech/agiletrack`
 2. Navigate to the project directory: `cd frontend`
 3. Install dependencies: `npm install`
 
